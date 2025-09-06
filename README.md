@@ -247,7 +247,7 @@ Las contribuciones son bienvenidas. Por favor:
 Si encuentras algún problema o tienes sugerencias:
 
 - **Issues**: [GitHub Issues](https://github.com/tu-usuario/swat-cas/issues)
-- **Email**: tu-email@ejemplo.com
+- **Email**: hectorhernadez51@gmail.com
 
 ---
 

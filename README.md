@@ -34,7 +34,7 @@ Un menú interactivo para acceder rápidamente a PowerShell, CMD, y herramientas
    # Clic derecho en el menú de inicio → "Windows PowerShell (Admin)"
    ```
 
-2. **Navega a tu carpeta deseada**
+2. **Navega a tu carpeta deseada Desktop**
    ```powershell
    cd C:\Users\%USERNAME%\Desktop
    # o la ubicación donde quieras instalar SWAT-CAS
@@ -42,7 +42,7 @@ Un menú interactivo para acceder rápidamente a PowerShell, CMD, y herramientas
 
 3. **Clona el repositorio**
    ```bash
-   git clone https://github.com/tu-usuario/swat-cas.git
+   git clone https://github.com/Hector-SWAT/CAS-application-launcher-Windows.git
    ```
 
 4. **Entra al directorio del proyecto**
